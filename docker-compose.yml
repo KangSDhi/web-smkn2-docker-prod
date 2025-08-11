@@ -3,7 +3,7 @@ name: web-smkn2-prod
 services:
 
   app:
-    image: kangstek/web-smkn-2:beta-0.3
+    image: kangstek/web-smkn-2:beta-0.4
     
     container_name: web-smkn-2-laravel-app-prod
 
